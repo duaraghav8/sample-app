@@ -1,0 +1,14 @@
+{
+  "name": "sample-app",
+  "version": "1.0.0",
+  "description": "this is sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm version && node index.js"
+  },
+  "keywords": [
+    "sample"
+  ],
+  "author": "raghav",
+  "license": "ISC"
+}
